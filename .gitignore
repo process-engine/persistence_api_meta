@@ -1,0 +1,20 @@
+correlations.repository.sequelize
+flow_node_instance.repository.sequelize
+logging.repository.file_system
+metrics.repository.file_system
+process_model.repository.sequelize
+timers.repository.sequelize
+
+# OSX-finder info-files
+*.DS_Store
+
+# IDE configs
+.vscode/*
+!.vscode/launch.json
+.idea/
+*.iml
+*.iws
+.classpath
+.project
+.settings/
+
