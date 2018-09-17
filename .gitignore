@@ -5,6 +5,9 @@ metrics.repository.file_system
 process_model.repository.sequelize
 timers.repository.sequelize
 
+dist
+node_modules
+
 # OSX-finder info-files
 *.DS_Store
 
