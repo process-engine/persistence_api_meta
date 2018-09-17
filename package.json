@@ -4,7 +4,7 @@
   "description": "",
   "main": "index.js",
   "scripts": {
-    "build": "meta exec \"npm run build\" --exclude persistence_meta",
+    "build": "meta exec \"npm run build\" --exclude persistence_api_meta",
     "postinstall": "minstall --no-hoist aurelia-* --trust-local-modules ."
   },
   "author": "",

@@ -14,10 +14,7 @@ if [[ "$?" -ne "0" ]]; then
   exit 1;
 fi
 
-# fix conflicting types from jasmine and mocha
-rm -rf node_modules/@types/jasmine
-
 # build all packages
-meta exec "npm run build" --exclude persistence_engine_meta
+npm run build
 
 echo "done"
