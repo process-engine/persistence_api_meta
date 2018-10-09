@@ -4,6 +4,7 @@ logging.repository.file_system
 metrics.repository.file_system
 process_model.repository.sequelize
 timers.repository.sequelize
+external_task.repository.sequelize
 
 dist
 node_modules
