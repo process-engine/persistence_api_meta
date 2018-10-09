@@ -5,6 +5,7 @@
     "process_model.repository.sequelize": "git@github.com:process-engine/process_model.repository.sequelize.git",
     "correlations.repository.sequelize": "git@github.com:process-engine/correlations.repository.sequelize.git",
     "flow_node_instance.repository.sequelize": "git@github.com:process-engine/flow_node_instance.repository.sequelize.git",
-    "timers.repository.sequelize": "git@github.com:process-engine/timers.repository.sequelize"
+    "timers.repository.sequelize": "git@github.com:process-engine/timers.repository.sequelize",
+    "external_task.repository.sequelize": "git@github.com:process-engine/external_task.repository.sequelize"
   }
 }
