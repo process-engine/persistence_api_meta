@@ -10,6 +10,6 @@
     "process_model.use_cases": "git@github.com:process-engine/process_model.use_cases.git",
     "process_model.service": "git@github.com:process-engine/process_model.service.git",
     "process_model.repository.sequelize": "git@github.com:process-engine/process_model.repository.sequelize.git",
-    "timers.repository.sequelize": "git@github.com:process-engine/timers.repository.sequelize"
+    "timer.repository.sequelize": "git@github.com:process-engine/timer.repository.sequelize"
   }
 }
