@@ -1,11 +1,15 @@
 {
   "projects": {
-    "logging.repository.file_system": "git@github.com:process-engine/logging.repository.file_system.git",
-    "metrics.repository.file_system": "git@github.com:process-engine/metrics.repository.file_system.git",
-    "process_model.repository.sequelize": "git@github.com:process-engine/process_model.repository.sequelize.git",
-    "correlations.repository.sequelize": "git@github.com:process-engine/correlations.repository.sequelize.git",
+    "correlation.contracts": "git@github.com:process-engine/correlation.contracts.git",
+    "flow_node_instance.contracts": "git@github.com:process-engine/flow_node_instance.contracts.git",
+    "process_model.contracts": "git@github.com:process-engine/process_model.contracts.git",
+    "correlation.service": "git@github.com:process-engine/correlation.service.git",
+    "correlation.repository.sequelize": "git@github.com:process-engine/correlation.repository.sequelize.git",
+    "flow_node_instance.service": "git@github.com:process-engine/flow_node_instance.service.git",
     "flow_node_instance.repository.sequelize": "git@github.com:process-engine/flow_node_instance.repository.sequelize.git",
-    "timers.repository.sequelize": "git@github.com:process-engine/timers.repository.sequelize",
-    "external_task.repository.sequelize": "git@github.com:process-engine/external_task.repository.sequelize"
+    "process_model.use_cases": "git@github.com:process-engine/process_model.use_cases.git",
+    "process_model.service": "git@github.com:process-engine/process_model.service.git",
+    "process_model.repository.sequelize": "git@github.com:process-engine/process_model.repository.sequelize.git",
+    "timers.repository.sequelize": "git@github.com:process-engine/timers.repository.sequelize"
   }
 }

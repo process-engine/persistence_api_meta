@@ -1,10 +1,14 @@
-correlations.repository.sequelize
+correlation.contracts
+correlation.service
+correlation.repository.sequelize
+flow_node_instance.contracts
+flow_node_instance.service
 flow_node_instance.repository.sequelize
-logging.repository.file_system
-metrics.repository.file_system
+process_model.contracts
+process_model.use_cases
+process_model.service
 process_model.repository.sequelize
 timers.repository.sequelize
-external_task.repository.sequelize
 
 dist
 node_modules
