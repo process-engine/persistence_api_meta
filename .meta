@@ -9,7 +9,6 @@
     "flow_node_instance.repository.sequelize": "git@github.com:process-engine/flow_node_instance.repository.sequelize.git",
     "process_model.use_cases": "git@github.com:process-engine/process_model.use_cases.git",
     "process_model.service": "git@github.com:process-engine/process_model.service.git",
-    "process_model.repository.sequelize": "git@github.com:process-engine/process_model.repository.sequelize.git",
-    "timer.repository.sequelize": "git@github.com:process-engine/timer.repository.sequelize"
+    "process_model.repository.sequelize": "git@github.com:process-engine/process_model.repository.sequelize.git"
   }
 }
