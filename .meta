@@ -1,10 +1,13 @@
 {
   "projects": {
     "correlation.contracts": "git@github.com:process-engine/correlation.contracts.git",
+    "cronjob_history.contracts": "git@github.com:process-engine/cronjob_history.contracts.git",
     "flow_node_instance.contracts": "git@github.com:process-engine/flow_node_instance.contracts.git",
     "process_model.contracts": "git@github.com:process-engine/process_model.contracts.git",
     "correlation.service": "git@github.com:process-engine/correlation.service.git",
     "correlation.repository.sequelize": "git@github.com:process-engine/correlation.repository.sequelize.git",
+    "cronjob_history.service": "git@github.com:process-engine/cronjob_history.service.git",
+    "cronjob_history.repository.sequelize": "git@github.com:process-engine/cronjob_history.repository.sequelize.git",
     "flow_node_instance.service": "git@github.com:process-engine/flow_node_instance.service.git",
     "flow_node_instance.repository.sequelize": "git@github.com:process-engine/flow_node_instance.repository.sequelize.git",
     "process_model.use_cases": "git@github.com:process-engine/process_model.use_cases.git",
