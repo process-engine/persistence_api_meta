@@ -4,6 +4,8 @@
     "cronjob_history.contracts": "git@github.com:process-engine/cronjob_history.contracts.git",
     "flow_node_instance.contracts": "git@github.com:process-engine/flow_node_instance.contracts.git",
     "process_model.contracts": "git@github.com:process-engine/process_model.contracts.git",
+    "metrics_api_contracts": "git@github.com:process-engine/metrics_api_contracts.git",
+    "logging_api_contracts": "git@github.com:process-engine/logging_api_contracts.git",
     "correlation.service": "git@github.com:process-engine/correlation.service.git",
     "correlation.repository.sequelize": "git@github.com:process-engine/correlation.repository.sequelize.git",
     "cronjob_history.service": "git@github.com:process-engine/cronjob_history.service.git",
@@ -12,6 +14,11 @@
     "flow_node_instance.repository.sequelize": "git@github.com:process-engine/flow_node_instance.repository.sequelize.git",
     "process_model.use_cases": "git@github.com:process-engine/process_model.use_cases.git",
     "process_model.service": "git@github.com:process-engine/process_model.service.git",
-    "process_model.repository.sequelize": "git@github.com:process-engine/process_model.repository.sequelize.git"
+    "process_model.repository.sequelize": "git@github.com:process-engine/process_model.repository.sequelize.git",
+    "metrics_api_core": "git@github.com:process-engine/metrics_api_core.git",
+    "metrics.repository.file_system": "git@github.com:process-engine/metrics.repository.file_system.git",
+    "logging_api_core": "git@github.com:process-engine/logging_api_core.git",
+    "logging_api_http": "git@github.com:process-engine/logging_api_http.git",
+    "logging.repository.file_system": "git@github.com:process-engine/logging.repository.file_system"
   }
 }
