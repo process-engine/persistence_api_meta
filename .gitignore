@@ -1,16 +1,9 @@
-correlation.contracts
-correlation.service
-correlation.repository.sequelize
-cronjob_history.contracts
-cronjob_history.service
-cronjob_history.repository.sequelize
-flow_node_instance.contracts
-flow_node_instance.service
-flow_node_instance.repository.sequelize
-process_model.contracts
-process_model.use_cases
-process_model.service
-process_model.repository.sequelize
+correlation.*
+cronjob_history.*
+flow_node_instance.*
+process_model.*
+logging*
+metrics*
 
 dist
 node_modules
