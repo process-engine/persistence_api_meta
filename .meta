@@ -18,7 +18,6 @@
     "metrics_api_core": "git@github.com:process-engine/metrics_api_core.git",
     "metrics.repository.file_system": "git@github.com:process-engine/metrics.repository.file_system.git",
     "logging_api_core": "git@github.com:process-engine/logging_api_core.git",
-    "logging_api_http": "git@github.com:process-engine/logging_api_http.git",
     "logging.repository.file_system": "git@github.com:process-engine/logging.repository.file_system"
   }
 }
