@@ -4,7 +4,7 @@ find . -name "node_modules" -exec rm -rf '{}' +
 echo "Done. Starting setup..."
 
 # install all necessary dependencies
-npm install --no-package-lock
+meta exec "npm run reinstall" --exclude runtime_layer_meta
 
 # If npm install (or minstall) fails, stop any further execution.
 # This is advisable since a failed npm install may lead to failures in the
@@ -14,7 +14,7 @@ if [[ "$?" -ne "0" ]]; then
   exit 1;
 fi
 
-# build all packages
-npm run build
+# Running this script through "npm install" will leave a package-lock file.
+rm package-lock.json
 
 echo "done"
