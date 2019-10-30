@@ -1,7 +1,6 @@
 {
   "projects": {
     "persistence_api": "git@github.com:process-engine/persistence_api.git",
-    "metrics_api": "git@github.com:process-engine/metrics_api.git",
     "logging_api": "git@github.com:process-engine/logging_api.git"
   }
 }
